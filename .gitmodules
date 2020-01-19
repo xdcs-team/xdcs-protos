@@ -1,0 +1,3 @@
+[submodule "docker-cuda-md5/md5-cracker"]
+	path = docker-cuda-md5/md5-cracker
+	url = https://github.com/iryont/md5-cracker
